@@ -1,7 +1,6 @@
 package javaclasses.encryptor;
 
 import javaclasses.encryptor.impl.EncryptorImpl;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
